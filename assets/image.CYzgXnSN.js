@@ -1,0 +1,1 @@
+import{a8 as r,a9 as a}from"./index-C8SuCoiN.js";function t(a){r({urls:[...a]})}function e(r,t){if(Array.isArray(r))return console.log(r.map((t=>a.staticServer+r))),r.map((t=>a.staticServer+r));if(t){return a.staticServer+r+"/zip"}}export{e as l,t as p};
